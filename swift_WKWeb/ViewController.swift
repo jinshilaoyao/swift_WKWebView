@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     var name: String? = "joker"
     
+    var title: Stirng? = "USAll"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
