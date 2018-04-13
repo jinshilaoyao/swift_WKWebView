@@ -14,6 +14,8 @@ class ViewController: UIViewController {
     
     var title: Stirng? = "USAll"
     
+    var age: int? = 20
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
